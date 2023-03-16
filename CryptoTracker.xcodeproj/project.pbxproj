@@ -19,6 +19,7 @@
 		5D2A9FE529C3C35B0089C467 /* CoinRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2A9FE429C3C35B0089C467 /* CoinRowView.swift */; };
 		5D2A9FE729C3C4100089C467 /* PreviewProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2A9FE629C3C4100089C467 /* PreviewProvider.swift */; };
 		5D2A9FE929C3CA180089C467 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2A9FE829C3CA180089C467 /* Double.swift */; };
+		5D2A9FEB29C3D98D0089C467 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2A9FEA29C3D98C0089C467 /* HomeViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		5D2A9FE429C3C35B0089C467 /* CoinRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinRowView.swift; sourceTree = "<group>"; };
 		5D2A9FE629C3C4100089C467 /* PreviewProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewProvider.swift; sourceTree = "<group>"; };
 		5D2A9FE829C3CA180089C467 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
+		5D2A9FEA29C3D98C0089C467 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		5D2A9FD829C248790089C467 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				5D2A9FEA29C3D98C0089C467 /* HomeViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D2A9FE529C3C35B0089C467 /* CoinRowView.swift in Sources */,
+				5D2A9FEB29C3D98D0089C467 /* HomeViewModel.swift in Sources */,
 				5D2A9FB929C15A460089C467 /* ContentView.swift in Sources */,
 				5D2A9FDA29C249090089C467 /* HomeView.swift in Sources */,
 				5D2A9FB729C15A460089C467 /* CryptoTrackerApp.swift in Sources */,
